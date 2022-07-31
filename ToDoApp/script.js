@@ -48,5 +48,13 @@ function addToList() {
 }
 
 clearBtn.addEventListener("click", function () {
-  itemsList.remove();
+  // Solution one:
+  // itemsList.innerHTML = "";
+  // Solution two:
+  let lis = document.querySelectorAll("#itemsList li");
+  let li;
+  for (let i = 0; (li = lis[i]); i++) {
+    li.parentNode.removeChild(li);
+    console.log(i);
+  }
 });
