@@ -6,4 +6,6 @@
 ## 4. [Vowel counter app.](https://jasonsmv.github.io/miniProjects.github.io/VowelCounter/)
 ## 5. [To do App revised.](https://jasonsmv.github.io/miniProjects.github.io/toDoAppRevised/)
 ## 6. [Simple Modal. ](https://jasonsmv.github.io/miniProjects.github.io/simpleModal/)
+## 7. [Quiz app. ](https://jasonsmv.github.io/miniProjects.github.io/quiz/)
+
 
