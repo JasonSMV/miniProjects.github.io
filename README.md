@@ -7,5 +7,8 @@
 ## 5. [To do App revised.](https://jasonsmv.github.io/miniProjects.github.io/toDoAppRevised/)
 ## 6. [Simple Modal. ](https://jasonsmv.github.io/miniProjects.github.io/simpleModal/)
 ## 7. [Quiz app. ](https://jasonsmv.github.io/miniProjects.github.io/quiz/)
+## 8. [Form validation. ](https://jasonsmv.github.io/miniProjects.github.io/quiz/)
+
+Form validation project. 
 
 
