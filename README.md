@@ -9,6 +9,7 @@
 ## 7. [Quiz app. ](https://jasonsmv.github.io/miniProjects.github.io/quiz/)
 ## 8. [Form validation. ](https://jasonsmv.github.io/miniProjects.github.io/formValidation/)
 ## 9. [Advanced toDo  ](https://jasonsmv.github.io/miniProjects.github.io/AdvancedTodo/)
+## 10. [Expand-Collapse  ](https://jasonsmv.github.io/miniProjects.github.io/expand-collapse/)
 
 
 
